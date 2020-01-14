@@ -1,0 +1,76 @@
+term	count	FDR	Group
+Metabolism of RNA	579	7.31E-36	CD4NM
+Metabolism of proteins	1240	3.52E-29	CD4NM
+Gene expression (Transcription)	904	3.87E-24	CD4NM
+RNA Polymerase II Transcription	802	1.07E-19	CD4NM
+Translation	264	5.43E-17	CD4NM
+Infectious disease	308	9.4E-17	CD4NM
+Immune System	1120	1.33E-16	CD4NM
+Processing of Capped Intron-Containing Pre-mRNA	223	1.23E-15	CD4NM
+Post-translational protein modification	833	1.88E-15	CD4NM
+Generic Transcription Pathway	692	6.04E-14	CD4NM
+Cell Cycle	414	1.58E-13	CD4NM
+Cellular responses to external stimuli	344	1.58E-13	CD4NM
+Membrane Trafficking	425	3.81E-13	CD4NM
+mRNA Splicing	179	7.21E-13	CD4NM
+Transcriptional Regulation by TP53	282	9.88E-13	CD4NM
+Adaptive Immune System	484	1.67E-12	CD4NM
+mRNA Splicing - Major Pathway	171	2.65E-12	CD4NM
+Disease	628	3.05E-12	CD4NM
+Cell Cycle, Mitotic	346	6.04E-12	CD4NM
+Metabolism	1117	9.36E-12	CD4NM
+Vesicle-mediated transport	432	1.49E-11	CD4NM
+Cellular responses to stress	287	2.48E-11	CD4NM
+rRNA processing in the nucleus and cytosol	171	6.05E-11	CD4NM
+rRNA processing	177	6.22E-11	CD4NM
+HIV Infection	191	1.01E-10	CD4NM
+Metabolism of RNA	609	4.9E-25	CD8NM
+Gene expression (Transcription)	1041	6.05E-22	CD8NM
+Metabolism of proteins	1369	5.28E-20	CD8NM
+RNA Polymerase II Transcription	926	3.4E-18	CD8NM
+Generic Transcription Pathway	812	1.07E-13	CD8NM
+Translation	276	7.77E-12	CD8NM
+Infectious disease	322	4.08E-11	CD8NM
+Immune System	1252	5.95E-11	CD8NM
+Post-translational protein modification	930	8.18E-11	CD8NM
+Processing of Capped Intron-Containing Pre-mRNA	228	2.8E-10	CD8NM
+Membrane Trafficking	470	8.25E-10	CD8NM
+Metabolism	1287	3.15E-09	CD8NM
+Cell Cycle	448	3.47E-09	CD8NM
+Adaptive Immune System	534	8.15E-09	CD8NM
+Vesicle-mediated transport	480	1.66E-08	CD8NM
+mRNA Splicing	182	2.42E-08	CD8NM
+Cellular responses to external stimuli	361	2.42E-08	CD8NM
+Cell Cycle, Mitotic	375	3E-08	CD8NM
+Disease	694	4.06E-08	CD8NM
+mRNA Splicing - Major Pathway	174	5.03E-08	CD8NM
+Transcriptional Regulation by TP53	294	5.67E-08	CD8NM
+rRNA processing in the nucleus and cytosol	179	1.27E-07	CD8NM
+Class I MHC mediated antigen processing & presentation	295	1.27E-07	CD8NM
+HIV Infection	202	1.61E-07	CD8NM
+rRNA processing	185	1.61E-07	CD8NM
+Metabolism of RNA	314	2.61E-49	TregNM
+Metabolism of proteins	597	5.89E-42	TregNM
+Translation	187	1.12E-41	TregNM
+Infectious disease	191	3.03E-33	TregNM
+Immune System	550	1.66E-31	TregNM
+Cap-dependent Translation Initiation	98	9.53E-28	TregNM
+GTP hydrolysis and joining of the 60S ribosomal subunit	95	1.04E-27	TregNM
+Regulation of expression of SLITs and ROBOs	115	1.5E-27	TregNM
+L13a-mediated translational silencing of Ceruloplasmin expression	94	1.78E-27	TregNM
+SRP-dependent cotranslational protein targeting to membrane	94	4.22E-27	TregNM
+Signaling by ROBO receptors	128	1.25E-26	TregNM
+Formation of a pool of free 40S subunits	87	1.07E-25	TregNM
+Influenza Infection	105	1.49E-25	TregNM
+Influenza Life Cycle	99	1.61E-24	TregNM
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	90	1.61E-24	TregNM
+Processing of Capped Intron-Containing Pre-mRNA	129	5.63E-24	TregNM
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	81	7.06E-24	TregNM
+Eukaryotic Translation Elongation	80	8.81E-24	TregNM
+Peptide chain elongation	78	1.43E-23	TregNM
+mRNA Splicing	113	1.43E-23	TregNM
+Eukaryotic Translation Termination	79	2.67E-23	TregNM
+mRNA Splicing - Major Pathway	109	5.78E-23	TregNM
+Influenza Viral RNA Transcription and Replication	92	7.78E-23	TregNM
+Selenocysteine synthesis	78	8.17E-23	TregNM
+Viral mRNA Translation	76	1.37E-22	TregNM

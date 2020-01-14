@@ -1,0 +1,76 @@
+term	count	FDR	Group
+Cytokine Signaling in Immune system	160	1.65E-147	CD4M
+Immune System	208	6.08E-140	CD4M
+Signaling by Interleukins	107	1.62E-92	CD4M
+Interferon Signaling	49	8.71E-41	CD4M
+Interferon alpha/beta signaling	35	1.68E-37	CD4M
+Innate Immune System	83	1.83E-36	CD4M
+Toll Like Receptor 4 (TLR4) Cascade	40	4.42E-36	CD4M
+Toll-like Receptor Cascades	41	9.19E-35	CD4M
+Interleukin-4 and Interleukin-13 signaling	37	1.27E-34	CD4M
+Adaptive Immune System	64	7.28E-29	CD4M
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane	31	2.86E-28	CD4M
+Interferon gamma signaling	28	1.89E-25	CD4M
+Toll Like Receptor 3 (TLR3) Cascade	28	1.78E-24	CD4M
+TRIF(TICAM1)-mediated TLR4 signaling	28	2.13E-24	CD4M
+MyD88 dependent cascade initiated on endosome	27	1.3E-23	CD4M
+Interleukin-1 family signaling	30	2.16E-23	CD4M
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	26	1.51E-22	CD4M
+MyD88 cascade initiated on plasma membrane	25	4.76E-22	CD4M
+Diseases associated with the TLR signaling cascade	16	1.85E-18	CD4M
+Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	19	6.85E-18	CD4M
+Interleukin-10 signaling	18	9.18E-18	CD4M
+Interleukin-1 signaling	22	3.25E-17	CD4M
+Signal Transduction	94	1.13E-16	CD4M
+TNFR2 non-canonical NF-kB pathway	21	2.99E-16	CD4M
+Chemokine receptors bind chemokines	17	4.28E-16	CD4M
+Gene expression (Transcription)	1213	8.09E-12	CD8M
+RNA Polymerase II Transcription	1088	3.61E-10	CD8M
+Metabolism of RNA	637	3.62E-10	CD8M
+Generic Transcription Pathway	969	2.48E-08	CD8M
+Metabolism of proteins	1578	4.58E-08	CD8M
+Cell Cycle	552	2.56E-07	CD8M
+Immune System	1531	1.72E-06	CD8M
+Cell Cycle, Mitotic	461	1.72E-06	CD8M
+Adaptive Immune System	641	1.64E-05	CD8M
+Metabolism	1579	3.33E-05	CD8M
+Post-translational protein modification	1096	6.7E-05	CD8M
+Transcriptional Regulation by TP53	341	0.00012	CD8M
+Translation	285	0.00012	CD8M
+Infectious disease	342	0.00018	CD8M
+M Phase	325	0.00021	CD8M
+Membrane Trafficking	527	0.00043	CD8M
+DNA Repair	279	0.00046	CD8M
+Cellular responses to external stimuli	408	0.00068	CD8M
+Disease	817	0.0012	CD8M
+Cytokine Signaling in Immune system	549	0.0013	CD8M
+Vesicle-mediated transport	545	0.0013	CD8M
+Processing of Capped Intron-Containing Pre-mRNA	229	0.0013	CD8M
+Class I MHC mediated antigen processing & presentation	332	0.0013	CD8M
+Cell Cycle Checkpoints	252	0.0016	CD8M
+Cellular responses to stress	342	0.0024	CD8M
+Cytokine Signaling in Immune system	157	6.19E-147	TregM
+Immune System	202	1.19E-137	TregM
+Signaling by Interleukins	105	4.89E-92	TregM
+Interferon Signaling	48	2.03E-40	TregM
+Innate Immune System	81	4.3E-36	TregM
+Interferon alpha/beta signaling	33	2.69E-35	TregM
+Interleukin-4 and Interleukin-13 signaling	36	7.67E-34	TregM
+Toll Like Receptor 4 (TLR4) Cascade	37	6.07E-33	TregM
+Adaptive Immune System	63	4.41E-29	TregM
+Interferon gamma signaling	28	8.14E-26	TregM
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane	28	5.88E-25	TregM
+Toll Like Receptor 3 (TLR3) Cascade	28	6.15E-25	TregM
+Interleukin-1 family signaling	31	6.15E-25	TregM
+TRIF(TICAM1)-mediated TLR4 signaling	28	7.2E-25	TregM
+MyD88 dependent cascade initiated on endosome	27	4.1E-24	TregM
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	26	5.23E-23	TregM
+Interleukin-10 signaling	21	3.7E-22	TregM
+MyD88 cascade initiated on plasma membrane	24	3.07E-21	TregM
+Interleukin-1 signaling	24	6.09E-20	TregM
+Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	18	6.52E-17	TregM
+TNFR2 non-canonical NF-kB pathway	21	1.42E-16	TregM
+DDX58/IFIH1-mediated induction of interferon-alpha/beta	19	6.4E-16	TregM
+Interleukin-12 family signaling	17	2.5E-15	TregM
+Costimulation by the CD28 family	17	6.31E-15	TregM
+Signal Transduction	88	6.47E-15	TregM
